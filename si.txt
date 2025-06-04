@@ -1,0 +1,18 @@
+restante:
+
+    funzione che se chiudi il gioco in partita timer con scelta automatica se troppe scelte automatiche e vinci ne vittoria ne sconfitta
+
+    funzione che a fine mazzo conteggia i punti se sono maggiori o uguali al limite impostato allora gestire vittoria sconfitta ecc.. se no continua nuovo round fino a che qualcuno non ha abbastanza punti
+
+    funzione che a fine round visualizza i punti e che mostra a quale round sei 1 2 ...
+
+
+fare la pagina che gestisce la vittoria o la sconfitta con esci o rigioca
+
+
+adattare il tutto ai diversi numeri di giocatori
+
+
+tutto quanto uguale ma senza online ma con i bot
+
+fine
